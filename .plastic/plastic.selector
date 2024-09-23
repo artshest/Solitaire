@@ -1,0 +1,4 @@
+repository "Solitaire@Cocojomb@cloud"
+  path "/"
+    br "/main"
+    co "/main"
